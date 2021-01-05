@@ -1,2 +1,11 @@
 # Hash
-Versão multi-player aprimorada do clássico jogo da velha , desenvolvido em java - netbeans e integração com postgresql. O jogo permite: -Registro automático de novo recorde de vitorias em uma campanha.  -Jogos individual ou campanha. -Definir o número de jogos da campanha. - Registro do número de vitórias de cada jogador. -Reset do recorde registrado no banco. -Alternar entre temas claro/escuro. -Ativar/desativar legendas.
+Enhanced multi-player version of the classic tic-tac-toe game.
+Developed in java - netbeans and integration with postgresql. 
+The game allows: 
+-Automatic registration of a new record of victories in a campaign. 
+-Individual games or campaign. 
+-Define the number of games in the campaign. 
+-Record the number of wins for each player. 
+-Reset of the record registered at the bank. 
+-Switch between light/dark subjects. 
+-Enable/disable subtitles.
