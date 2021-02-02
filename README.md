@@ -1,4 +1,4 @@
-# Hash
+# hash
 Enhanced multi-player version of the classic tic-tac-toe game.
 Developed in java - netbeans and integration with postgresql. 
 The game allows: 
